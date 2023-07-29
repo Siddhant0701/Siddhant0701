@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Siddhant</h1>
 <h3 align="center">AI/ML enthusiast in University of Waterloo.</h3>
 
-- 🌱 I’m currently learning **Computer Vision**
+- 🌱 I’m currently learning about **Blockchain**
 
 - 💬 Ask me about **Python, Tensorflow, Deep learning, Computer Vision**
 
