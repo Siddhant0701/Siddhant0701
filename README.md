@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/siddhantmahajan07/](https://www.linkedin.com/in/siddhantmahajan07/)
 
-- ⚡ Fun fact **I love Rubik's Cubes**
+- ⚡ Fun fact **MY fastest time on a Rubik's cube is 12 seconds**
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
