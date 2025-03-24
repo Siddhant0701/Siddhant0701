@@ -78,7 +78,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddhant0701&show_icons=true&locale=en&layout=compact" alt="siddhant0701" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siddhant0701&show_icons=true&locale=en" alt="siddhant0701" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhant0701&" alt="siddhant0701" /></p>
+    
+<p><img align="center" src="https://github-readme-stats-ninepiece2.vercel.app/api/top-langs?username=Siddhant0701&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=light&hide_border=false&size_weight=0.5&count_weight=0.5" /></p>
 
 <p><img src="https://leetcard.jacoblin.cool/Siddhant0701?theme=light" height="165" alt="leetcode stats"/></p>
