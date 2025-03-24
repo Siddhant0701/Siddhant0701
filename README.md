@@ -80,3 +80,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siddhant0701&show_icons=true&locale=en" alt="siddhant0701" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhant0701&" alt="siddhant0701" /></p>
+
+<p><img src="https://leetcard.jacoblin.cool/Siddhant0701?theme=light" height="165" alt="leetcode stats"/></p>
