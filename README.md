@@ -81,4 +81,4 @@
     
 <p><img align="center" src="https://github-readme-stats-ninepiece2.vercel.app/api/top-langs?username=Siddhant0701&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=light&hide_border=false&size_weight=0.5&count_weight=0.5" /></p>
 
-<p><img src="https://leetcard.jacoblin.cool/Siddhant0701?theme=light" height="165" alt="leetcode stats"/></p>
+<p><img src="https://github-readme-leetcode-card.romitsagu.com/Siddhant0701" height="165" alt="leetcode stats"/></p>
